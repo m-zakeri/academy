@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome","text":""},{"location":"calendar/","title":"Calendar","text":""},{"location":"contact/","title":"Contact","text":""},{"location":"faculty/","title":"Faculty","text":""},{"location":"blog/","title":"Blog","text":""}]}
